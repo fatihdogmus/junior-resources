@@ -63,8 +63,8 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 * [The Future of Programming - Robert C. Martin](https://youtu.be/ecIWPzGEbFc)
 * [Old Is the New New - Kevlin Henney](https://youtu.be/AbgsfeGvg3E)
-* [The Craftsman's Oath - Robert C. Martin](https://youtu.be/17vTLSkXTOo)
 * [Escaping Developer Nightmares - Rustam Mehmandarov](https://youtu.be/_-MEvBgdh0Y)
+* [The Error of Our Ways - Kevlin Henney](https://youtu.be/odlWJEfTGNc)
 
 ### Kariyer Tavsiyesi
 
@@ -72,16 +72,22 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [The Well-Balanced Programmer - J.B. Rainsberger](https://youtu.be/XhN6fJYG81A)
 * [The Long Road - Sandro Mancuso](https://youtu.be/vQDnW265XKU)
 * [Programming Is the Easy Part - J.B. Rainsberger](https://youtu.be/SbGiSH_8UGk)
-* [Taking Back "Software Engineering" - Dave Farley](https://youtu.be/_N_jIrEBOpw)
-* [Code Review Best Practices - Trisha Gee](https://youtu.be/jXi8h44cbQA)
-* [Seven Ineffective Coding Habits of Many Programmers - Kevlin Henney](https://youtu.be/ZsHMHukIlJY)
 * [Yazılımda Ustalaşma Yol Haritası - Lemi Orhan Ergin](https://youtu.be/T_fzUxfEQL8)
 * [Habits of Efficient Developers - Daniel Lebrero Berna](https://youtu.be/ZlnSxlF9V_c)
 * [How to Take Great Engineers & Make Them Great Technical Leaders - Courtney Hemphill](https://youtu.be/RtMmxqkPVug)
 * [Career Advice For Junior Software Developers - Dave Farley](https://youtu.be/hjIlTaAMsbI)
-* [Extreme Professionalism - Software Craftsmanship - Victor Rentea](https://youtu.be/PzXm7Qumt48)
 * [Be the Leader of Your Own Career - Bruno Souza](https://youtu.be/8k_SjOxedYg)
+
+### İyi pratikler
+* [Taking Back "Software Engineering" - Dave Farley](https://youtu.be/_N_jIrEBOpw)
+* [Code Review Best Practices - Trisha Gee](https://youtu.be/jXi8h44cbQA)
+* [Extreme Professionalism: Software Craftsmanship - Victor Rentea](https://youtu.be/PzXm7Qumt48)
 * [The Software Craftsmanship - Sandro Mancuso](https://youtu.be/m_Kc0cO-078)
+* [Beyond Software Craftsmanship - Eduards Sizovs](https://youtu.be/AEtCEt44vlE)
+* [Reading Code Is Harder Than Writing It - Trisha Gee](https://youtu.be/zV079g7Irks)
+* [The Craftsman's Oath - Robert C. Martin](https://youtu.be/17vTLSkXTOo)
+* [Continued Learning: The Beauty of Maintenance - Kent Beck](https://youtu.be/3gib0hKYjB0)
+* [Seven Ineffective Coding Habits of Many Programmers - Kevlin Henney](https://youtu.be/ZsHMHukIlJY)
 
 ### Kodlama Teknikleri
 
@@ -94,6 +100,7 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Prime Factors Kata - Robert C. Martin](https://youtu.be/kScFczWbwRM)
 * [The Power and Practicality of Immutability - Venkat Subramaniam](https://youtu.be/FQERMVABRrQ)
 * [Let’s Get Lazy - Venkat Subramaniam](https://youtu.be/vS1yYIVG6DM)
+* [Extreme Programming 20 years later - Kent Beck](https://youtu.be/cGuTmOUdFbo)
 
 ### Temiz Kod
 
@@ -104,16 +111,21 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
   Altı kısımlık bir video serisi
 * [Twelve Ways to Make Code Suck Less - Venkat Subramaniam](https://youtu.be/nVZE53IYi4w)
 * [The Art of Clean Code by - Victor Rentea](https://youtu.be/AeWbJ5LIFNg)
+* [Lean Code - Kevlin Henney](https://youtu.be/-nWhH-4wWBU)
 
 ### Tasarım
 
 * [The Lost Art of Software Design - Simon Brown](https://youtu.be/qO73yObPYac)
 * [Core Design Principles for Software Developers - Venkat Subramaniam](https://youtu.be/llGgO74uXMI)
 * [A Case For Outside-In Design - Sandro Mancuso](https://youtu.be/fKHYBnuPApY)
+* [Becoming a better developer by using the SOLID design principles - Katerina Trajchevska](https://youtu.be/rtmFCcjEgEw)
 * [Nothing is Something - Sandi Metz](https://youtu.be/OMPfEXIlTVE)
 * [Crafted Design - Sandro Mancuso](https://youtu.be/dYvSaajboEs)
+* [SOLID principles - Robert C. Martin](https://youtu.be/zHiWqnTWsn4)
 * [Yazılım Tasarımı ve Modülerlik Üzerine Yeniden Düşünmek - Lemi Orhan Ergin](https://youtu.be/pdtpWYNBzqM)
 * [Usable Software Design - Alexandru Bolboaca](https://youtu.be/w0ht0LmSmGM)
+* [Live Refactoring Towards Solid Code - Bartłomiej Słota](https://youtu.be/jwJnd9ycs6Q)
+* [The Economics of Software Design - J.B. Rainsberger](https://youtu.be/TQ9rng6YFeY)
 
 ### Test
 
@@ -124,6 +136,7 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Domain Driven Testing: Know What You Doing - Dmitry Vinnik](https://youtu.be/UIycEOBxMpA)
 * [Testing and Refactoring Legacy Code - Sandro Mancuso](https://youtu.be/AUtrEYnm0ts)
 * [Effective Unit Testing - Eliotte Rusty Harold](https://youtu.be/fr1E9aVnBxw)
+* [Testing Legacy Code - Eliotte Rusty Harold](https://youtu.be/cjxXv0eifhY)
 
 ### Test-Driven Development
 
@@ -149,9 +162,14 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Beyti Code: Growing Hexagonal Microservices with TDD - Lemi Orhan Ergin](https://youtu.be/ZMB-Xlh5Rj0)
 * [Clean Architecture and Design - Robert C. Martin](https://youtu.be/2dKZ-dWaCiU)
 * [Thinking Architecturally - Nathaniel Schutta](https://youtu.be/d5bNZX8tpiI)
+* [Software Architecture for Developers - Simon Brown](https://youtu.be/z1xLDzx7hgw)
 * [Towards an Evolutionary Architecture: part 1 - Venkat Subramaniam](https://youtu.be/VEPwR4Hpi7M)
 * [Towards an Evolutionary Architecture: part 2 - Venkat Subramaniam](https://youtu.be/S2VgwcaMpnY)
 * [A Craftsman’s Guide to Designing a Clean Architecture - Marcus Biel](https://youtu.be/0M4DXVaktPc)
+* [Mid-sized Building Blocks & Hexagonal Architecture - Jakub Nabrdalik](https://youtu.be/sND1AR7Q_T0)
+* [Modular monoliths - Simon Brown](https://youtu.be/kbKxmEeuvc4)
+* [The Art of Visualising Software Architecture - Simon Brown](https://youtu.be/qUbdls_1OEc)
+* [Common Mistakes When Moving to Microservices - Jakub Nabrdalik](https://youtu.be/sXIvrgTtmZE)
 
 ### Domain-Driven Design
 
@@ -166,6 +184,7 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Domain Events & Event Storming - Michael Plod Part 4/5](https://youtu.be/DNOLwyfliLE)
 * [Implementation Aspects with Java and Spring - Michael Plod Part 4/5](https://youtu.be/yWDaBdV-SL8)
 * [DDD & REST - Domain Driven APIs for the web - Oliver Gierke](https://youtu.be/NdZqeAAIHzc)
+* [Slice & Dice your Monolith with Domain Driven Design - Edson Yanaga](https://youtu.be/TYgHtZhS1jI)
 
 ## Konferanslar
 
@@ -179,6 +198,7 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * DevConf.pl
 * NDC Conferences
 * Devnot
+* YOW! Conference
 
 ## Makaleler
 
