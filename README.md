@@ -1,4 +1,4 @@
-# junior-resources
+# Sektöre yeni adım atanlar için kaynaklar
 
 Sektöre yeni başlayan arkadaşlar için neyi ne zaman nasıl öğrenmelerine yardımcı olacak bir kaynak bütünü
 
@@ -40,6 +40,7 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 * Refactoring to Patterns - Joshua Kerievsky
 * Designing Data Intensive Applications - Martin Kleppmann
 * Clear Architecture – Robert C. Martin
+* Get Your Hands Dirty on Clean Architecture – Tom Hombergs
 * Building Microservices: Designing Fine-Grained Systems – Sam Newman
 * Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith – Sam Newman
 * Continuous Delivery – Jez Humble, Dave Farley
@@ -68,7 +69,7 @@ konuşmaları değil, bu kişilerin diğer konuşmalarına da bakabilirsiniz.
 * [The Magic Tricks of Testing - Sandi Metz](https://youtu.be/URSWYvyc42M)
 * [Programming Is the Easy Part - J.B. Rainsberger](https://youtu.be/SbGiSH_8UGk)
 * [Don't Walk Away from Complexity, Run - Venkat Subramaniam](https://www.youtube.com/watch?v=4MEKu2TcEHM)
-* [The Art of Simplicity Run - Venkat Subramaniam](https://youtu.be/R4C_JciDsuo)
+* [The Art of Simplicity - Venkat Subramaniam](https://youtu.be/R4C_JciDsuo)
 * [Functional Programming in 40 Minutes - Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
 * [Unconditional Code - Michael Feathers](https://youtu.be/AnZ0uTOerUI)
 * [Qualities of a Highly Effective Architect - Venkat Subramaniam](https://youtu.be/QeKheNfO3Yg)
