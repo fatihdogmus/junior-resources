@@ -54,12 +54,17 @@ Burada verdiğim konuşmalar, benim nasıl düşündüğümü en derinden etkile
 olan konuşmalar oldu. Ayrıca genellikle diğer konuşmalarını da beğendiğim kişileri koymaya çalıştım. Sadece bu
 konuşmaları değil, bu kişilerin diğer konuşmalarına da bakabilirsiniz.
 
+Burada da yine üç aşamada değerlendirebiliriz. Genelden temiz koda kadar olan kısım işe yeni girdiğinizde,
+tasarım'dan test-driven development'a kadar olan kısım 1-3 sene arası, mimari ve domain-driven design da 3 sene 
+sonrasında bakılacaklar olarak değerlendirilebilinir.
+
 ### Genel
 
 * [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 * [The Future of Programming - Robert C. Martin](https://youtu.be/ecIWPzGEbFc)
 * [Old Is the New New - Kevlin Henney](https://youtu.be/AbgsfeGvg3E)
 * [The Craftsman's Oath - Robert C. Martin](https://youtu.be/17vTLSkXTOo)
+* [Escaping Developer Nightmares - Rustam Mehmandarov](https://youtu.be/_-MEvBgdh0Y)
 
 ### Kariyer Tavsiyesi
 
@@ -75,6 +80,8 @@ konuşmaları değil, bu kişilerin diğer konuşmalarına da bakabilirsiniz.
 * [How to Take Great Engineers & Make Them Great Technical Leaders - Courtney Hemphill](https://youtu.be/RtMmxqkPVug)
 * [Career Advice For Junior Software Developers - Dave Farley](https://youtu.be/hjIlTaAMsbI)
 * [Extreme Professionalism - Software Craftsmanship - Victor Rentea](https://youtu.be/PzXm7Qumt48)
+* [Be the Leader of Your Own Career - Bruno Souza](https://youtu.be/8k_SjOxedYg)
+* [The Software Craftsmanship - Sandro Mancuso](https://youtu.be/m_Kc0cO-078)
 
 ### Kodlama Teknikleri
 
@@ -86,28 +93,7 @@ konuşmaları değil, bu kişilerin diğer konuşmalarına da bakabilirsiniz.
 * [Safe Refactoring - Jakub Pilimon](https://youtu.be/CtSm27gmKFU)
 * [Prime Factors Kata - Robert C. Martin](https://youtu.be/kScFczWbwRM)
 * [The Power and Practicality of Immutability - Venkat Subramaniam](https://youtu.be/FQERMVABRrQ)
-
-### Tasarım
-
-* [Core Design Principles for Software Developers - Venkat Subramaniam](https://youtu.be/llGgO74uXMI)
-* [Nothing is Something - Sandi Metz](https://youtu.be/OMPfEXIlTVE)
-* [The Lost Art of Software Design - Simon Brown](https://youtu.be/qO73yObPYac)
-* [Yazılım Tasarımı ve Modülerlik Üzerine Yeniden Düşünmek - Lemi Orhan Ergin](https://youtu.be/pdtpWYNBzqM)
-
-### Test
-
-* [The Magic Tricks of Testing - Sandi Metz](https://youtu.be/URSWYvyc42M)
-* [Pragmatic unit testing - Vladimir Khorikov](https://youtu.be/5iJWOPaNZDA)
-* [Unit Testing like a Pro: The Circle of Purity - Victor Rentea](https://youtu.be/1Z_h55jMe-M)
-* [Don't be mocked by your Mocks: Listening to your Tests - Victor Rentea](https://youtu.be/pKBjufM024U)
-
-### Test-Driven Development
-
-* [Does TDD Really Lead to Good Design? - Sandro Mancuso](https://youtu.be/KyFVA4Spcgg)
-* [Refactoring & Design Techniques for the Test Driven Development - Roy Osherove](https://youtu.be/QbNhpPQkCBs)
-* [TDD, Where Did It All Go Wrong - Ian Cooper](https://youtu.be/EZ05e7EMOLM)
-* [TDD as a design tool - Dave Farley](https://youtu.be/VaNaN_j9OCA)
-* [The Three Laws of TDD - Robert C. Martin](https://youtu.be/qkblc5WRn-U)
+* [Let’s Get Lazy - Venkat Subramaniam](https://youtu.be/vS1yYIVG6DM)
 
 ### Temiz Kod
 
@@ -118,6 +104,37 @@ konuşmaları değil, bu kişilerin diğer konuşmalarına da bakabilirsiniz.
   Altı kısımlık bir video serisi
 * [Twelve Ways to Make Code Suck Less - Venkat Subramaniam](https://youtu.be/nVZE53IYi4w)
 * [The Art of Clean Code by - Victor Rentea](https://youtu.be/AeWbJ5LIFNg)
+
+### Tasarım
+
+* [The Lost Art of Software Design - Simon Brown](https://youtu.be/qO73yObPYac)
+* [Core Design Principles for Software Developers - Venkat Subramaniam](https://youtu.be/llGgO74uXMI)
+* [A Case For Outside-In Design - Sandro Mancuso](https://youtu.be/fKHYBnuPApY)
+* [Nothing is Something - Sandi Metz](https://youtu.be/OMPfEXIlTVE)
+* [Crafted Design - Sandro Mancuso](https://youtu.be/dYvSaajboEs)
+* [Yazılım Tasarımı ve Modülerlik Üzerine Yeniden Düşünmek - Lemi Orhan Ergin](https://youtu.be/pdtpWYNBzqM)
+* [Usable Software Design - Alexandru Bolboaca](https://youtu.be/w0ht0LmSmGM)
+
+### Test
+
+* [The Magic Tricks of Testing - Sandi Metz](https://youtu.be/URSWYvyc42M)
+* [Pragmatic unit testing - Vladimir Khorikov](https://youtu.be/5iJWOPaNZDA)
+* [Unit Testing like a Pro: The Circle of Purity - Victor Rentea](https://youtu.be/1Z_h55jMe-M)
+* [Don't be mocked by your Mocks: Listening to your Tests - Victor Rentea](https://youtu.be/pKBjufM024U)
+* [Domain Driven Testing: Know What You Doing - Dmitry Vinnik](https://youtu.be/UIycEOBxMpA)
+* [Testing and Refactoring Legacy Code - Sandro Mancuso](https://youtu.be/AUtrEYnm0ts)
+* [Effective Unit Testing - Eliotte Rusty Harold](https://youtu.be/fr1E9aVnBxw)
+
+### Test-Driven Development
+
+* [Does TDD Really Lead to Good Design? - Sandro Mancuso](https://youtu.be/KyFVA4Spcgg)
+* [Refactoring & Design Techniques for the Test Driven Development - Roy Osherove](https://youtu.be/QbNhpPQkCBs)
+* [TDD, Where Did It All Go Wrong - Ian Cooper](https://youtu.be/EZ05e7EMOLM)
+* [TDD as a design tool - Dave Farley](https://youtu.be/VaNaN_j9OCA)
+* [The Three Laws of TDD - Robert C. Martin](https://youtu.be/qkblc5WRn-U)
+* [Improving your Test Driven Development in 45 Minutes - Jakub Nabrdalik](https://youtu.be/2vEoL3Irgiw)
+* [Pragmatics of TDD to Evolve Design: part 1 - JVenkat Subramaniam](https://youtu.be/tzH_10zrGHQ)
+* [Pragmatics of TDD to Evolve Design: part 2 - JVenkat Subramaniam](https://youtu.be/706anMB9ul8)
 
 ### Mimari
 
@@ -132,6 +149,9 @@ konuşmaları değil, bu kişilerin diğer konuşmalarına da bakabilirsiniz.
 * [Beyti Code: Growing Hexagonal Microservices with TDD - Lemi Orhan Ergin](https://youtu.be/ZMB-Xlh5Rj0)
 * [Clean Architecture and Design - Robert C. Martin](https://youtu.be/2dKZ-dWaCiU)
 * [Thinking Architecturally - Nathaniel Schutta](https://youtu.be/d5bNZX8tpiI)
+* [Towards an Evolutionary Architecture: part 1 - Venkat Subramaniam](https://youtu.be/VEPwR4Hpi7M)
+* [Towards an Evolutionary Architecture: part 2 - Venkat Subramaniam](https://youtu.be/S2VgwcaMpnY)
+* [A Craftsman’s Guide to Designing a Clean Architecture - Marcus Biel](https://youtu.be/0M4DXVaktPc)
 
 ### Domain-Driven Design
 
