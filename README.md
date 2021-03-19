@@ -161,10 +161,10 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Implementing Domain Driven Design - Halil Ibrahim Kalkan](https://youtu.be/Yx3Y3-GC9EE)
 * [Domain Driven Design: The Good Parts - Jimmy Bogard](https://youtu.be/L3SvIKdLt88)
 * [Overview and Core Values of Domain-Driven Design - Michael Plod Part 1/5](https://youtu.be/Z0zpSB85XGs)
-* [Strategic Design: Domains, Subdomains, Bounded Contexts & Context Maps Michael Plod part 3/5](https://youtu.be/pNTsTVoV2qA)
-* [Internal Building Blocks: Aggregates, Entities, Value Objects - Michael Plod Part 4/5](https://youtu.be/RHg53wMflCc)
-* [Domain Events & Event Storming - Michael Plod Part 5/5](https://youtu.be/DNOLwyfliLE)
-* [Implementation Aspects with Java and Spring - Michael Plod](https://youtu.be/yWDaBdV-SL8)
+* [Strategic Design: Domains, Subdomains, Bounded Contexts & Context Maps Michael Plod part 2/5](https://youtu.be/pNTsTVoV2qA)
+* [Internal Building Blocks: Aggregates, Entities, Value Objects - Michael Plod Part 3/5](https://youtu.be/RHg53wMflCc)
+* [Domain Events & Event Storming - Michael Plod Part 4/5](https://youtu.be/DNOLwyfliLE)
+* [Implementation Aspects with Java and Spring - Michael Plod Part 4/5](https://youtu.be/yWDaBdV-SL8)
 * [DDD & REST - Domain Driven APIs for the web - Oliver Gierke](https://youtu.be/NdZqeAAIHzc)
 
 ## Konferanslar
