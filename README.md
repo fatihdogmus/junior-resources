@@ -50,11 +50,10 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 
 ## Konferans konuşmaları
 
-Burada verdiğim konuşmalar, benim nasıl düşündüğümü en derinden etkileyen ve kod yazmamda ve düşünce yapımda en faydalı
-olan konuşmalar oldu. Ayrıca genellikle diğer konuşmalarını da beğendiğim kişileri koymaya çalıştım. Sadece bu
-konuşmaları değil, bu kişilerin diğer konuşmalarına da bakabilirsiniz.
+Buradaki konuşmalar, nasıl düşündüğünüzü ve nasıl iş yaptığınızı derinden etkilyecek ve hayatınıza alabileceğiniz 
+pratik tavsiyeler veren konuşmalardan oluşuyor.
 
-Burada da yine üç aşamada değerlendirebiliriz. Genelden temiz koda kadar olan kısım işe yeni girdiğinizde,
+Buradaki konuşmaları da yine üç aşamada değerlendirebiliriz. Genelden temiz koda kadar olan kısım işe yeni girdiğinizde,
 tasarım'dan test-driven development'a kadar olan kısım 1-3 sene arası, mimari ve domain-driven design da 3 sene 
 sonrasında bakılacaklar olarak değerlendirilebilinir.
 
