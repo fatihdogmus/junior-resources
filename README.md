@@ -136,6 +136,7 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Testing and Refactoring Legacy Code - Sandro Mancuso](https://youtu.be/AUtrEYnm0ts)
 * [Effective Unit Testing - Eliotte Rusty Harold](https://youtu.be/fr1E9aVnBxw)
 * [Testing Legacy Code - Eliotte Rusty Harold](https://youtu.be/cjxXv0eifhY)
+* [Testing: Testing - Christina Lee](https://youtu.be/cjxXv0eifhY)
 
 ### Test-Driven Development
 
