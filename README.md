@@ -225,3 +225,15 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * InfoQ
 * freeCodeCamp
 * Vladimir Khorikov's blog
+
+# İletişim ve davranışsal
+
+Bu katagorideki kaynaklar, insanlarla iletişim ve "soft skill" konularında.
+
+## Kitaplar
+
+* Clean Coder - Robert C. Martin
+* Peopleware - Tom DeMarco
+* Mythical Man-Month - Frederick P. Brooks Jr.
+* Soft Skills - John Sonmez
+* The Passionate Programmer - Chad Fowler
