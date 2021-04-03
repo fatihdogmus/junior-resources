@@ -29,8 +29,10 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 * Growing Object-Oriented Software, Guided by Tests – Steve Freeman
 * Extreme Programming Explained - Kent Beck
 * The Object-Oriented Thought Process - Matt Weisfeld
+* Extreme Programming Explained - Kent Beck
+* Applying UML and Patterns - Craig Larman
 
-### 3 yıldan sonra
+### 3-5 yıl arası tecrübe ile
 
 * Head-First Design Patterns – Eric Freeman
 * Domain Driven Design Distilled - Vaughn Vernon
@@ -38,23 +40,31 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 * Domain-Driven Design – Eric Evans
 * Design Patterns: Elements of Reusable Object-Oriented Software – Eric Gama et.al.
 * Refactoring to Patterns - Joshua Kerievsky
+* Patterns, Principles, and Practices of Domain-Driven Design - Scott Millett,
+* Continuous Delivery – Jez Humble, Dave Farley
+* Release It! - Michael T. Nygard
+
+### 5 yıldan sonra
+
+* Software Architecture for Developers - Simon Brown
+* Fundamentals of Software Architecture - Neal Ford
 * Designing Data Intensive Applications - Martin Kleppmann
 * Clean Architecture – Robert C. Martin
 * Get Your Hands Dirty on Clean Architecture – Tom Hombergs
 * Design It! – Michael Keeling
 * Building Microservices: Designing Fine-Grained Systems – Sam Newman
 * Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith – Sam Newman
-* Continuous Delivery – Jez Humble, Dave Farley
-* Release It! - Michael T. Nygard
-* Patterns of Enterprise Application Architecture – Martin Fowler
+* Patterns of Enterprise Application Architecture – Martin Fowler 
+* Pattern-Oriented Software Architecture, Volume 1 - Frank Bushmann
+* Enterprise Integration Patterns - Gregor Hohpe
 
 ## Konferans konuşmaları
 
-Buradaki konuşmalar, nasıl düşündüğünüzü ve nasıl iş yaptığınızı derinden etkilyecek ve hayatınıza alabileceğiniz 
-pratik tavsiyeler veren konuşmalardan oluşuyor.
+Buradaki konuşmalar, nasıl düşündüğünüzü ve nasıl iş yaptığınızı derinden etkilyecek ve hayatınıza alabileceğiniz pratik
+tavsiyeler veren konuşmalardan oluşuyor.
 
 Buradaki konuşmaları da yine üç aşamada değerlendirebiliriz. Genelden temiz koda kadar olan kısım işe yeni girdiğinizde,
-tasarım'dan test-driven development'a kadar olan kısım 1-3 sene arası, mimari ve domain-driven design da 3 sene 
+tasarım'dan test-driven development'a kadar olan kısım 1-3 sene arası, domain-drive design 3-5 yıl arası, mimari de 5 sene
 sonrasında bakılacaklar olarak değerlendirilebilinir.
 
 ### Genel
@@ -78,6 +88,7 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Be the Leader of Your Own Career - Bruno Souza](https://youtu.be/8k_SjOxedYg)
 
 ### İyi pratikler
+
 * [Taking Back "Software Engineering" - Dave Farley](https://youtu.be/_N_jIrEBOpw)
 * [Code Review Best Practices - Trisha Gee](https://youtu.be/jXi8h44cbQA)
 * [Extreme Professionalism: Software Craftsmanship - Victor Rentea](https://youtu.be/PzXm7Qumt48)
@@ -149,6 +160,21 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Pragmatics of TDD to Evolve Design: part 1 - JVenkat Subramaniam](https://youtu.be/tzH_10zrGHQ)
 * [Pragmatics of TDD to Evolve Design: part 2 - JVenkat Subramaniam](https://youtu.be/706anMB9ul8)
 
+### Domain-Driven Design
+
+* [Online Microservices & DDD Konferansı](https://youtu.be/aWOHq6AHNjU)
+* [Domain Driven Design Through Onion Architecture - Wade Waldron](https://youtu.be/pL9XeNjy_z4)
+* [What is DDD - Eric Evans](https://youtu.be/pMuiVlnGqjk)
+* [Implementing Domain Driven Design - Halil Ibrahim Kalkan](https://youtu.be/Yx3Y3-GC9EE)
+* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://youtu.be/L3SvIKdLt88)
+* [Overview and Core Values of Domain-Driven Design - Michael Plod Part 1/5](https://youtu.be/Z0zpSB85XGs)
+* [Strategic Design: Domains, Subdomains, Bounded Contexts & Context Maps Michael Plod part 2/5](https://youtu.be/pNTsTVoV2qA)
+* [Internal Building Blocks: Aggregates, Entities, Value Objects - Michael Plod Part 3/5](https://youtu.be/RHg53wMflCc)
+* [Domain Events & Event Storming - Michael Plod Part 4/5](https://youtu.be/DNOLwyfliLE)
+* [Implementation Aspects with Java and Spring - Michael Plod Part 4/5](https://youtu.be/yWDaBdV-SL8)
+* [DDD & REST - Domain Driven APIs for the web - Oliver Gierke](https://youtu.be/NdZqeAAIHzc)
+* [Slice & Dice your Monolith with Domain Driven Design - Edson Yanaga](https://youtu.be/TYgHtZhS1jI)
+
 ### Mimari
 
 * [Evolving a Clean, Pragmatic Architecture - Victor Rentea](https://youtu.be/tMHO7_RLxgQ)
@@ -170,21 +196,8 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Modular monoliths - Simon Brown](https://youtu.be/kbKxmEeuvc4)
 * [The Art of Visualising Software Architecture - Simon Brown](https://youtu.be/qUbdls_1OEc)
 * [Common Mistakes When Moving to Microservices - Jakub Nabrdalik](https://youtu.be/sXIvrgTtmZE)
-
-### Domain-Driven Design
-
-* [Online Microservices & DDD Konferansı](https://youtu.be/aWOHq6AHNjU)
-* [Domain Driven Design Through Onion Architecture - Wade Waldron](https://youtu.be/pL9XeNjy_z4)
-* [What is DDD - Eric Evans](https://youtu.be/pMuiVlnGqjk)
-* [Implementing Domain Driven Design - Halil Ibrahim Kalkan](https://youtu.be/Yx3Y3-GC9EE)
-* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://youtu.be/L3SvIKdLt88)
-* [Overview and Core Values of Domain-Driven Design - Michael Plod Part 1/5](https://youtu.be/Z0zpSB85XGs)
-* [Strategic Design: Domains, Subdomains, Bounded Contexts & Context Maps Michael Plod part 2/5](https://youtu.be/pNTsTVoV2qA)
-* [Internal Building Blocks: Aggregates, Entities, Value Objects - Michael Plod Part 3/5](https://youtu.be/RHg53wMflCc)
-* [Domain Events & Event Storming - Michael Plod Part 4/5](https://youtu.be/DNOLwyfliLE)
-* [Implementation Aspects with Java and Spring - Michael Plod Part 4/5](https://youtu.be/yWDaBdV-SL8)
-* [DDD & REST - Domain Driven APIs for the web - Oliver Gierke](https://youtu.be/NdZqeAAIHzc)
-* [Slice & Dice your Monolith with Domain Driven Design - Edson Yanaga](https://youtu.be/TYgHtZhS1jI)
+* [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://youtu.be/GBTdnfD6s5Q)
+* [Monolith Decomposition Patterns - Sam Newman](https://youtu.be/9I9GdSQ1bbM)
 
 ## Konferanslar
 
