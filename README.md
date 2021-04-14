@@ -63,9 +63,7 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 Buradaki konuşmalar, nasıl düşündüğünüzü ve nasıl iş yaptığınızı derinden etkilyecek ve hayatınıza alabileceğiniz pratik
 tavsiyeler veren konuşmalardan oluşuyor.
 
-Buradaki konuşmaları da yine üç aşamada değerlendirebiliriz. Genelden temiz koda kadar olan kısım işe yeni girdiğinizde,
-tasarım'dan test-driven development'a kadar olan kısım 1-3 sene arası, domain-drive design 3-5 yıl arası, mimari de 5 sene
-sonrasında bakılacaklar olarak değerlendirilebilinir.
+## İşe yeni başladığınızda
 
 ### Genel
 
@@ -122,6 +120,7 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Twelve Ways to Make Code Suck Less - Venkat Subramaniam](https://youtu.be/nVZE53IYi4w)
 * [The Art of Clean Code by - Victor Rentea](https://youtu.be/AeWbJ5LIFNg)
 * [Lean Code - Kevlin Henney](https://youtu.be/-nWhH-4wWBU)
+## 1-3 yıl arası tecrübe ile
 
 ### Tasarım
 
@@ -160,6 +159,8 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Pragmatics of TDD to Evolve Design: part 1 - JVenkat Subramaniam](https://youtu.be/tzH_10zrGHQ)
 * [Pragmatics of TDD to Evolve Design: part 2 - JVenkat Subramaniam](https://youtu.be/706anMB9ul8)
 
+## 3-5 yıl arası tecrübe ile
+
 ### Domain-Driven Design
 
 * [Online Microservices & DDD Konferansı](https://youtu.be/aWOHq6AHNjU)
@@ -174,6 +175,8 @@ sonrasında bakılacaklar olarak değerlendirilebilinir.
 * [Implementation Aspects with Java and Spring - Michael Plod Part 4/5](https://youtu.be/yWDaBdV-SL8)
 * [DDD & REST - Domain Driven APIs for the web - Oliver Gierke](https://youtu.be/NdZqeAAIHzc)
 * [Slice & Dice your Monolith with Domain Driven Design - Edson Yanaga](https://youtu.be/TYgHtZhS1jI)
+
+## 5 Yıldan sonra
 
 ### Mimari
 
