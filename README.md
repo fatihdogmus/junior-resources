@@ -182,8 +182,10 @@ tavsiyeler veren konuşmalardan oluşuyor.
 
 * [Evolving a Clean, Pragmatic Architecture - Victor Rentea](https://youtu.be/tMHO7_RLxgQ)
 * [Software Architecture vs. Code - Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
+* [More Testable Code with the Hexagonal Architecture - Ted M. Young](https://youtu.be/ujb_O6myknY)
 * [The Clean Architecture - Ian Cooper](https://youtu.be/SxJPQ5qXisw)
 * [Hexagonal Architecture in practice - Jakub Nabrdalik](https://youtu.be/sOaS83Ir8Ck)
+* [Majestic Modular Monoliths - Axel Fontaine](https://youtu.be/oBiH003x9bY)
 * [Towards an Evolutionary Architecture - Venkat Subramaniam](https://youtu.be/ksSIRnXg9pM)
 * ["Good Enough" Architecture - Stefan Tilkov](https://youtu.be/PzEox3szeRc)
 * [Qualities of a Highly Effective Architect - Venkat Subramaniam](https://youtu.be/QeKheNfO3Yg)
