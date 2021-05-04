@@ -156,8 +156,8 @@ tavsiyeler veren konuşmalardan oluşuyor.
 * [TDD as a design tool - Dave Farley](https://youtu.be/VaNaN_j9OCA)
 * [The Three Laws of TDD - Robert C. Martin](https://youtu.be/qkblc5WRn-U)
 * [Improving your Test Driven Development in 45 Minutes - Jakub Nabrdalik](https://youtu.be/2vEoL3Irgiw)
-* [Pragmatics of TDD to Evolve Design: part 1 - JVenkat Subramaniam](https://youtu.be/tzH_10zrGHQ)
-* [Pragmatics of TDD to Evolve Design: part 2 - JVenkat Subramaniam](https://youtu.be/706anMB9ul8)
+* [Pragmatics of TDD to Evolve Design: part 1 - Venkat Subramaniam](https://youtu.be/tzH_10zrGHQ)
+* [Pragmatics of TDD to Evolve Design: part 2 - Venkat Subramaniam](https://youtu.be/706anMB9ul8)
 
 ## 3-5 yıl arası tecrübe ile
 
