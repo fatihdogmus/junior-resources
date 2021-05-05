@@ -96,6 +96,7 @@ tavsiyeler veren konuşmalardan oluşuyor.
 * [The Craftsman's Oath - Robert C. Martin](https://youtu.be/17vTLSkXTOo)
 * [Continued Learning: The Beauty of Maintenance - Kent Beck](https://youtu.be/3gib0hKYjB0)
 * [Seven Ineffective Coding Habits of Many Programmers - Kevlin Henney](https://youtu.be/ZsHMHukIlJY)
+* [User Stories considered harmful - Jakub Nabrdalik](https://youtu.be/2df8_PHJuzk)
 
 ### Kodlama Teknikleri
 
