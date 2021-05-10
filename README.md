@@ -13,8 +13,9 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 
 * Clean Code – Robert C. Martin
 * Software Craftsman, The: Professionalism, Pragmatism, Pride - Sandro Mancuso
-* Practical Object-Oriented Design: An Agile Primer Using Ruby – Sandi Metz
+* The Object-Oriented Thought Process – Matt Weisfeld
 * Unit Testing Principles, Practices, and Patterns - Vladimir Khorikov
+* Head First Object-Oriented Analysis and Design - Brett McLaughlin, Gary Pollice, David West
 * The Pragmatic Programmer, 20th year edition – David Thomas
 * Refactoring: Improving the Design of Existing Code – Martin Fowler
 * 97 Things Every Programmer Should Know – Kevlin Henney
