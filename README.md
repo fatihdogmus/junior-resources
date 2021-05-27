@@ -32,6 +32,7 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 * The Object-Oriented Thought Process - Matt Weisfeld
 * Extreme Programming Explained - Kent Beck
 * Applying UML and Patterns - Craig Larman
+* The Art of Agile Development - James Shore
 
 ### 3-5 yıl arası tecrübe ile
 
@@ -44,6 +45,8 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 * Patterns, Principles, and Practices of Domain-Driven Design - Scott Millett,
 * Continuous Delivery – Jez Humble, Dave Farley
 * Release It! - Michael T. Nygard
+* The Phonix Project - Gene Kim
+* The Unicorn Project - Gene Kim
 
 ### 5 yıldan sonra
 
@@ -58,6 +61,7 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 * Patterns of Enterprise Application Architecture – Martin Fowler 
 * Pattern-Oriented Software Architecture, Volume 1 - Frank Bushmann
 * Enterprise Integration Patterns - Gregor Hohpe
+* Accelerate - Jez Humble
 
 ## Konferans konuşmaları
 
