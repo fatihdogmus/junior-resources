@@ -9,59 +9,94 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 
 ## Kitaplar
 
-### İşe yeni girdiğinizde
+## İşe yeni girdiğinizde
 
+### Temis kod
 * Clean Code – Robert C. Martin
-* Software Craftsman, The: Professionalism, Pragmatism, Pride - Sandro Mancuso
-* The Object-Oriented Thought Process – Matt Weisfeld
-* Unit Testing Principles, Practices, and Patterns - Vladimir Khorikov
-* Head First Object-Oriented Analysis and Design - Brett McLaughlin, Gary Pollice, David West
-* The Pragmatic Programmer, 20th year edition – David Thomas
 * Refactoring: Improving the Design of Existing Code – Martin Fowler
-* 97 Things Every Programmer Should Know – Kevlin Henney
 * Code Complete – Steve McGonnel
 
-### 1-3 Yıl arası tecrübe ile
+### Kariyer tavsiyeleri
+* 97 Things Every Programmer Should Know – Kevlin Henney
+* Software Craftsman, The: Professionalism, Pragmatism, Pride - Sandro Mancuso
+* The Pragmatic Programmer, 20th year edition – David Thomas
+* The Passionate Programmer - Chad Fowler
 
-* Test Driven Development – Kent Beck
+### OOP
+* The Object-Oriented Thought Process – Matt Weisfeld
+* Head First Object-Oriented Analysis and Design - Brett McLaughlin, Gary Pollice, David West
+
+### Testing
+* Unit Testing Principles, Practices, and Patterns - Vladimir Khorikov
+
+## 1-3 Yıl arası tecrübe ile
+
+### Testing
 * xUnit Test Patterns: Refactoring Test Code - Gerard Meszaros
 * The Art of Unit Testing - Roy Osherove
-* Working Effectively with Legacy Code – Micheal Feathers
+
+### Test-Driven Development
+* Test Driven Development – Kent Beck
 * Growing Object-Oriented Software, Guided by Tests – Steve Freeman
+
+### İyi pratikler
+* Working Effectively with Legacy Code – Micheal Feathers
 * Extreme Programming Explained - Kent Beck
-* The Object-Oriented Thought Process - Matt Weisfeld
-* Extreme Programming Explained - Kent Beck
-* Applying UML and Patterns - Craig Larman
 * The Art of Agile Development - James Shore
+* Practices of an Agile Developer - Venkat Subramaniam
+* Software Engineering at Google - Titus Winters
 
-### 3-5 yıl arası tecrübe ile
+### Kariyer tavsiyesi
+* Pragmatic Thinking and Learning - Andy Hunt
+* Apprenticeship Patterns - Dave Hoover
 
+### OOP
+* The Object-Oriented Thought Process - Matt Weisfeld
+* Applying UML and Patterns - Craig Larman
+
+## 3-5 yıl arası tecrübe ile
+
+### OOP
 * Head-First Design Patterns – Eric Freeman
+* Refactoring to Patterns - Joshua Kerievsky
+* Design Patterns: Elements of Reusable Object-Oriented Software – Eric Gama et.al.
+* A Philosophy of Software Design - John Ousterhout
+
+### Domain-Driven Design
+* Patterns, Principles, and Practices of Domain-Driven Design - Scott Millett,
 * Domain Driven Design Distilled - Vaughn Vernon
 * Implementing Domain-Driven Design - Vaughn Vernon
 * Domain-Driven Design – Eric Evans
-* Design Patterns: Elements of Reusable Object-Oriented Software – Eric Gama et.al.
-* Refactoring to Patterns - Joshua Kerievsky
-* Patterns, Principles, and Practices of Domain-Driven Design - Scott Millett,
+
+### DevOps
 * Continuous Delivery – Jez Humble, Dave Farley
+* The Devops Handbook - Gene Kim
 * Release It! - Michael T. Nygard
-* The Phonix Project - Gene Kim
-* The Unicorn Project - Gene Kim
 
-### 5 yıldan sonra
+## 5 yıldan sonra
 
+### Mimari
 * Software Architecture for Developers - Simon Brown
 * Fundamentals of Software Architecture - Neal Ford
-* Designing Data Intensive Applications - Martin Kleppmann
 * Clean Architecture – Robert C. Martin
 * Get Your Hands Dirty on Clean Architecture – Tom Hombergs
 * Design It! – Michael Keeling
-* Building Microservices: Designing Fine-Grained Systems – Sam Newman
-* Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith – Sam Newman
-* Patterns of Enterprise Application Architecture – Martin Fowler 
+* Patterns of Enterprise Application Architecture – Martin Fowler
 * Pattern-Oriented Software Architecture, Volume 1 - Frank Bushmann
+* Building Evolutionary Architectures - Neal Ford
+
+### Dağıtık Sistemler ve Mikroservisler
+* Building Microservices: Designing Fine-Grained Systems – Sam Newman
+* Designing Data Intensive Applications - Martin Kleppmann
+* Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith – Sam Newman
 * Enterprise Integration Patterns - Gregor Hohpe
+* Pattern-Oriented Software Architecture, Volume 4 -  Frank Buschmann
+
+### DevOps
 * Accelerate - Jez Humble
+* The Phonix Project - Gene Kim
+* The Unicorn Project - Gene Kim
+* Site Reliability Engineering - Niall Richard Murphy
 
 ## Konferans konuşmaları
 
@@ -260,4 +295,3 @@ Bu katagorideki kaynaklar, insanlarla iletişim ve "soft skill" konularında.
 * Peopleware - Tom DeMarco
 * Mythical Man-Month - Frederick P. Brooks Jr.
 * Soft Skills - John Sonmez
-* The Passionate Programmer - Chad Fowler
