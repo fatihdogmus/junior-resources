@@ -11,7 +11,7 @@ Doğrudan iş yapış biçiminizi ve koda bakış şekliniz ile problemleri çö
 
 ## İşe yeni girdiğinizde
 
-### Temis kod
+### Temiz kod
 * Clean Code – Robert C. Martin
 * Refactoring: Improving the Design of Existing Code – Martin Fowler
 * Code Complete – Steve McGonnel
