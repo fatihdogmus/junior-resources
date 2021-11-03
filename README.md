@@ -244,6 +244,7 @@ tavsiyeler veren konuşmalardan oluşuyor.
 * [Common Mistakes When Moving to Microservices - Jakub Nabrdalik](https://youtu.be/sXIvrgTtmZE)
 * [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://youtu.be/GBTdnfD6s5Q)
 * [Monolith Decomposition Patterns - Sam Newman](https://youtu.be/9I9GdSQ1bbM)
+* [Keynote DDD, CQRS, and Event Sourcing, beyond the hype - Allard Buzje](https://youtu.be/znMtUgVJjgA)
 
 ## Konferanslar
 
