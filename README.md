@@ -232,6 +232,7 @@ tavsiyeler veren konuşmalardan oluşuyor.
 * [Qualities of a Highly Effective Architect - Venkat Subramaniam](https://youtu.be/QeKheNfO3Yg)
 * [The model-code gap - Simon Brown](https://youtu.be/9imyW_WAYP4)
 * [Beyti Code: Growing Hexagonal Microservices with TDD - Lemi Orhan Ergin](https://youtu.be/ZMB-Xlh5Rj0)
+* [Modular Software Architecture for Pragmatic Developers - Lemi Orhan Ergin](https://youtu.be/aWOHq6AHNjU?t=10832)
 * [Clean Architecture and Design - Robert C. Martin](https://youtu.be/2dKZ-dWaCiU)
 * [Thinking Architecturally - Nathaniel Schutta](https://youtu.be/d5bNZX8tpiI)
 * [Software Architecture for Developers - Simon Brown](https://youtu.be/z1xLDzx7hgw)
