@@ -124,6 +124,7 @@ tavsiyeler veren konuşmalardan oluşuyor.
 * [How to Take Great Engineers & Make Them Great Technical Leaders - Courtney Hemphill](https://youtu.be/RtMmxqkPVug)
 * [Career Advice For Junior Software Developers - Dave Farley](https://youtu.be/hjIlTaAMsbI)
 * [Be the Leader of Your Own Career - Bruno Souza](https://youtu.be/8k_SjOxedYg)
+* [The World Needs Full-Stack Craftspeople - Anton Keks](https://youtu.be/ipKw9hB2_bM)
 
 ### İyi pratikler
 
